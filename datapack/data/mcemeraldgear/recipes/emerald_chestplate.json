@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E E",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": { "item": "minecraft:emerald" }
+  },
+  "result": { "id": "mcemeraldgear:emerald_chestplate" }
+}
+
