@@ -1,0 +1,10 @@
+{
+  "components": {
+    "minecraft:icon": {"texture": "mcemeraldgear:emerald_helmet"},
+    "minecraft:max_stack_size": 1,
+    "minecraft:durability": {"max_durability": 290},
+    "minecraft:armor": {"slot": "head", "protection": 3, "toughness": 1},
+    "minecraft:repairable": {"items": ["minecraft:emerald"]},
+    "minecraft:display_name": {"translate": "item.mcemeraldgear.emerald_helmet"}
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "condition": "minecraft:any_of",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {"equipment": {"head": {"items": ["mcemeraldgear:emerald_helmet"]}}}
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {"equipment": {"chest": {"items": ["mcemeraldgear:emerald_chestplate"]}}}
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {"equipment": {"legs": {"items": ["mcemeraldgear:emerald_leggings"]}}}
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {"equipment": {"feet": {"items": ["mcemeraldgear:emerald_boots"]}}}
+    }
+  ]
+}
